@@ -1,0 +1,23 @@
+# Java
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+.vs/
+.vscode/
+resources/
+*.properties
+
+# Node
+node_modules/
+dist/
+.env
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
